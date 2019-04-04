@@ -1,2 +1,2 @@
 # DesignPattern
-Design pattern using Javascript(ES6)
+Design pattern using Typescript
